@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Reenie Beanie');
+@import url('https://fonts.googleapis.com/css?family=Nanum Pen Script');
+@import url('https://fonts.googleapis.com/css?family=Lacquer');
+@import url('https://fonts.googleapis.com/css?family=Annie Use Your Telescope');
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin: 100px;
+    /* background-image: url(https://64.media.tumblr.com/76ab70f8feba67cb3e8f2a3355b5a34f/c43cf7ce77c6b62b-f2/s1280x1920/4b5acbf291e0466f50929635a61a9402012d07cf.png); */
+    background-image: url(http://images6.fanpop.com/image/photos/43600000/shirakumo-and-kurogiri-boku-no-hero-academia-43691754-800-1135.jpg);
+    /* background-image: url(p/Picture1.jpg); */
+
+    background-size: cover;
+
+}
+
+.container span{
+    font-family: 'Lacquer';
+}
+
+.quote p{
+    font-family: 'Reenie Beanie';
+    font-size: 40px;
+    margin: -30px;
+}
+
+.quote h6{
+    font-family:'Gloria Hallelujah';
+}
+
+.top a{
+    padding-bottom: 10px;
+    padding: 10px 10px;
+    font-size: 20px;
+    border: 3px solid rgb(27, 27, 27);
+    background-color: rgb(27, 27, 27);
+    color: rgb(102, 168, 255);
+    box-shadow: 8px 4px black;
+}
+
+.information ul li{
+    margin: 5px;
+    padding:5px;
+}
+
+.footer{
+    font-family: 'Lacquer';
+    text-align: right;
+    font-weight: bold;
+    font-size: 30px;
+}
